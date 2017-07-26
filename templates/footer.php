@@ -2,9 +2,11 @@
     <div class="container">
         <div class="row">
 
-            <div class="widget-area clearfix">
-                <?php dynamic_sidebar('sidebar-footer'); ?>
-            </div>
+            <?php if ( is_active_sidebar( 'sidebar-footer' ) ): ?>
+                <div class="widget-area clearfix">
+                    <?php dynamic_sidebar('sidebar-footer'); ?>
+                </div>
+            <?php endif; ?>
 
             <div class="col-md-12 copyright clearfix">
 
