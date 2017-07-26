@@ -1,0 +1,62 @@
+/**
+ * background
+ */
+
+.banner,
+.top-search-form .btn-primary,
+.btn-primary,
+aside.doc-nav-widget ul.doc-nav-list > li.current_page_parent > a, aside.doc-nav-widget ul.doc-nav-list > li.current_page_item > a, aside.doc-nav-widget ul.doc-nav-list > li.current_page_ancestor > a {
+	background-color: #16a085;
+}
+
+/**
+ * Color
+ */
+
+a {
+	color: #16a085;
+}
+
+/**
+ * border color
+ */
+
+.top-search-form .btn-primary,
+.btn-primary,
+aside.doc-nav-widget ul.doc-nav-list > li.current_page_parent li.current_page_item > a, aside.doc-nav-widget ul.doc-nav-list > li.current_page_item li.current_page_item > a, aside.doc-nav-widget ul.doc-nav-list > li.current_page_ancestor li.current_page_item > a,
+.form-control:focu {
+	border-color: #16a085;
+}
+
+
+
+/**
+ * Dark background
+ */
+
+.banner .navbar-nav li > a:hover, .banner .navbar-nav li > a:focus,
+.top-search-form .btn-primary:hover, .top-search-form .btn-primary:focus,
+.btn-primary:hover, .btn-primary:focus,
+.banner .navbar-nav .open a:hover, .banner .navbar-nav .open a:focus,
+.banner .navbar-nav .active > a, .banner .navbar-nav .active > a:hover, .banner .navbar-nav .active > a:focus,
+.banner .navbar-nav .dropdown-menu .active > a, .banner .navbar-nav .dropdown-menu .active > a:hover {
+	background-color: #14947b;
+}
+
+
+/**
+ * Dark color
+ */
+
+a:hover {
+	color: #14947b;
+}
+
+/**
+ * Dark border color
+ */
+
+.top-search-form .btn-primary:hover, .top-search-form .btn-primary:focus,
+.btn-primary:hover, .btn-primary:focus {
+	border-color: #14947b;
+}
