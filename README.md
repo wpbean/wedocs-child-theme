@@ -3,7 +3,7 @@ weDocs Child Theme. weDocs is a documentation theme for WordPress.
 
 Demo: [docs.wpbean.com](http://docs.wpbean.com/)
 
-![screenshot](screenshot.png)
+![screenshot](weDocs-Screenshot.png)
 
 ### How to Install 
 
